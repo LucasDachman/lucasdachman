@@ -10,7 +10,7 @@
 
 ## Links
 
-* [Download](https://github.com/LucasDachman/lucasdachman/raw/master/README.pdf)
+* [Download](https://github.com/LucasDachman/lucasdachman/raw/master/Lucas_Dachman_README-Resume.pdf)
 
 * Github: <https://github.com/LucasDachman>
 
