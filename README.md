@@ -1,37 +1,71 @@
-## Welcome to GitHub Pages
+# Lucas Dachman - Software Developer
 
-You can use the [editor on GitHub](https://github.com/LucasDachman/lucasdachman/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Info
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+* Boulder, Colorado
 
-### Markdown
+* lucas.dachman@gmail.com
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* 832-449-0712
 
-```markdown
-Syntax highlighted code block
+## Links
 
-# Header 1
-## Header 2
-### Header 3
+* Github: github.com/LucasDachman
 
-- Bulleted
-- List
+* Linkedin: linkedin.com/in/lucasdachman
 
-1. Numbered
-2. List
+## Mission
 
-**Bold** and _Italic_ and `Code` text
+To learn and improve skills in creative software software development by working with experienced developers
 
-[Link](url) and ![Image](src)
-```
+## University of Colorado Boulder: College of Engineering & Applied Science
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Bachelor of Science in Technology Art and Media
 
-### Jekyll Themes
+* "A program designed to teach students creative thinking, technical skills, and visual communication within creative studio-based environments."
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LucasDachman/lucasdachman/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+* Creative thinking combined with technical skills and visual communication
 
-### Support or Contact
+* Coursework in Design Preactices, Graphic Design, 3D Modeling, Web Design, Mobile Apps, Physical Computing
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Minor in Computer Science
+
+* Knowledge of Data Structures, Computer Systems, Operating Systems, Software Development Methods/Tools, and Creative Computing
+
+## Software Development Skills and Tools
+
+### General
+
+* Git, Agile Scrum, CLI, C/++, Virtual Machines, Linux
+
+### Web
+
+* Javascript, HTML, CSS, React.js, Layout and Design, Continuous Deployment
+
+### IOS and Android
+
+* Java, XML, Swift, Emulators
+
+## Experience and Projects
+
+### Polycom - Software Engineer Intern (March 2018 - August 2018)
+
+* Used sprint based Agile Scrum Methodologies
+
+* Implemented data visialization for range of KeenIO API responses
+
+* Improved query building UI
+
+* Used React.js Library
+
+* Helped maintain alert system using python
+
+### Foot Step Sequencer — Interactive Music Floor (Fall 2017)
+
+* Used C++ and Javascript to create an audio sequencer application
+
+* Built foot step sensors with felt and copper tape
+
+* Learned basic soldering and circuitry
+
+* Used an Arduino to send MIDI and scan sensors
