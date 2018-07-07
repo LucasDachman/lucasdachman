@@ -60,9 +60,11 @@ To learn and improve skills in creative software development by working with exp
 
 ### Foot Step Sequencer — Interactive Music Floor (Fall 2017)
 
+* [Github Link](https://github.com/LucasDachman/Web-Sequencer)
+
 * Used **C++** and **Javascript** to create an audio sequencer application
 
-* Built foot step sensors with felt and copper tape
+* Built foot step **sensors** with felt and copper tape
 
 * Learned basic soldering and **circuitry**
 
