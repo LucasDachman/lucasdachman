@@ -10,9 +10,11 @@
 
 ## Links
 
-* Github: https://github.com/LucasDachman
+* [Download](https://github.com/LucasDachman/lucasdachman/raw/master/README.pdf)
 
-* Linkedin: https://linkedin.com/in/lucasdachman
+* Github: <https://github.com/LucasDachman>
+
+* Linkedin: <https://linkedin.com/in/lucasdachman>
 
 ## Mission
 
