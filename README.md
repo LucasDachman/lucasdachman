@@ -16,15 +16,13 @@
 
 ## Mission
 
-To learn and improve skills in creative software software development by working with experienced developers
+To learn and improve skills in creative software development by working with experienced developers
 
 ## University of Colorado Boulder: College of Engineering & Applied Science
 
 ### Bachelor of Science in Technology Art and Media
 
-* "A program designed to teach students creative thinking, technical skills, and visual communication within creative studio-based environments."
-
-* Creative thinking combined with technical skills and visual communication
+* "A program designed to teach students **creative thinking**, **technical skills**, and **visual communication** within creative studio-based environments."
 
 * Coursework in Design Preactices, Graphic Design, 3D Modeling, Web Design, Mobile Apps, Physical Computing
 
@@ -50,22 +48,22 @@ To learn and improve skills in creative software software development by working
 
 ### Polycom - Software Engineer Intern (March 2018 - August 2018)
 
-* Used sprint based Agile Scrum Methodologies
+* Used sprint based **Agile** Scrum Methodologies
 
-* Implemented data visialization for range of KeenIO API responses
+* Implemented **data visialization** for range of KeenIO API responses
 
-* Improved query building UI
+* Improved query building **UI**
 
-* Used React.js Library
+* Used **React.js** Library
 
-* Helped maintain alert system using python
+* Helped maintain alert system using **python**
 
 ### Foot Step Sequencer — Interactive Music Floor (Fall 2017)
 
-* Used C++ and Javascript to create an audio sequencer application
+* Used **C++** and **Javascript** to create an audio sequencer application
 
 * Built foot step sensors with felt and copper tape
 
-* Learned basic soldering and circuitry
+* Learned basic soldering and **circuitry**
 
-* Used an Arduino to send MIDI and scan sensors
+* Used an **Arduino** to send MIDI and scan sensors
