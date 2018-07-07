@@ -10,9 +10,9 @@
 
 ## Links
 
-* Github: github.com/LucasDachman
+* Github: https://github.com/LucasDachman
 
-* Linkedin: linkedin.com/in/lucasdachman
+* Linkedin: https://linkedin.com/in/lucasdachman
 
 ## Mission
 
