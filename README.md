@@ -62,7 +62,7 @@ To learn and improve skills in creative software development by working with exp
 
 ### Foot Step Sequencer — Interactive Music Floor (Fall 2017)
 
-* [Github Link](https://github.com/LucasDachman/Web-Sequencer)
+* [Web App](https://github.com/LucasDachman/Web-Sequencer), [Desktop App](https://github.com/LucasDachman/Sequencer), [Video](https://youtu.be/WRBsER6CLXo)
 
 * Used **C++** and **Javascript** to create an audio sequencer application
 
