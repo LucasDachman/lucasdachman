@@ -36,7 +36,7 @@ To learn and improve skills in creative software development by working with exp
 
 ### General
 
-* Git, Agile Scrum, CLI, C/++, Virtual Machines, Linux
+* Git, CLI, C/++, Virtual Machines, Linux, Agile Scrum
 
 ### Web
 
